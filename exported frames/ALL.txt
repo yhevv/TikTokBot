@@ -1,0 +1,17 @@
+Home_Active
+Home_Search
+Go_Live
+Exit_Live
+Treasure_Box
+Treasure_Box_Time
+Treasure_Box_Amount
+Coin_Amount
+Profile_Before
+Profile_Before_Follow
+Profile_Full
+Profile_Full_Follow
+Profile_Full_Username
+Searched_Profile_Live
+Search_Button
+Search_Area
+Go_Back

@@ -1,0 +1,13 @@
+Vid: 2.
+
+pip install opencv-python
+pip install mss
+pip install pywin32
+pip install keyboard
+pip install pyserial
+pip install tqdm
+pip install pandas
+pip install seaborn
+pip install pyyaml
+----------------------
+''''660, 35 | 560, 990 |  -1220, 1025'''
